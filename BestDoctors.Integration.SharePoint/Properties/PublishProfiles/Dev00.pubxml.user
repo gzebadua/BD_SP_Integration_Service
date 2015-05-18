@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BestDoctors.Integration.Schemas.Shared.dll">
+      <publishTime>08/19/2013 15:33:01</publishTime>
+    </File>
+    <File Include="bin/BestDoctors.Integration.Schemas.Shared.pdb">
+      <publishTime>08/19/2013 15:33:01</publishTime>
+    </File>
+    <File Include="bin/BestDoctors.Integration.SharePoint.dll">
+      <publishTime>08/19/2013 15:33:03</publishTime>
+    </File>
+    <File Include="bin/BestDoctors.Integration.SharePoint.pdb">
+      <publishTime>08/19/2013 15:33:03</publishTime>
+    </File>
+    <File Include="bin/BestDoctors.Services.Common.dll">
+      <publishTime>07/23/2013 18:11:44</publishTime>
+    </File>
+    <File Include="bin/BestDoctors.Services.Common.pdb">
+      <publishTime>07/23/2013 18:11:44</publishTime>
+    </File>
+    <File Include="bin/de/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:19</publishTime>
+    </File>
+    <File Include="bin/es/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/FluentValidation.dll">
+      <publishTime>07/02/2013 12:47:19</publishTime>
+    </File>
+    <File Include="bin/FluentValidation.pdb">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/fr/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/it/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/nl/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/pl/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/pt/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/ru/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/sv/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="bin/tr/FluentValidation.resources.dll">
+      <publishTime>07/02/2013 12:47:20</publishTime>
+    </File>
+    <File Include="DocumentRepositoryService.svc">
+      <publishTime>07/24/2013 10:33:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/19/2013 15:33:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
